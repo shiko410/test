@@ -13,4 +13,8 @@
 ## リリース方法
 
 
+<<<<<<< Updated upstream
 ## テスト
+=======
+## 変更日
+>>>>>>> Stashed changes
